@@ -13,16 +13,9 @@ export default function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
-        
-        
          <small>👆This code was coded by Muna Ali and is a
           <a href="https://github.com/MunaFrontend" target="_blank"
             >open-source</a>
-
-
-
-
-      
         </small>
         </footer>
         
